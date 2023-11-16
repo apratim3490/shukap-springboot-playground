@@ -1,4 +1,4 @@
-package com.shukap.playground;
+package com.shukap.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
